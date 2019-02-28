@@ -1,1 +1,1 @@
-# Data-Collection
+# Seismic hazard zones data collection
