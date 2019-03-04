@@ -1,3 +1,7 @@
+
+# Credit goes to https://github.com/ChrisMuir/Zillow/blob/master/zillow_functions.py
+# Few functions like sold-date, latitude, longitude, etc have been added here.
+
 # -*- coding: utf-8 -*-
 # Zillow scraper functions, these are sourced at the top of zillow_runfile.py
 
