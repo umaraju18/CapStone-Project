@@ -7,7 +7,7 @@
 
 ## Jupyter Notebooks:
 
-    (1) Data collection: https://nbviewer.jupyter.org/github/umaraju18/CapStone-Project/blob/master/sanjose_data_collection.ipynb
+    (1) Data collection: (https://nbviewer.jupyter.org/github/umaraju18/CapStone-Project/blob/master/sanjose_data_collection.ipynb "Data collection:")
 
     (2) Single family EDA: https://nbviewer.jupyter.org/github/umaraju18/CapStone-Project/blob/master/sanjose_eda_single_family.ipynb
 
